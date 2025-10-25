@@ -26,7 +26,7 @@ You need a valid **API Key** from `remove.bg` to make the background removal fun
 
 1.  **Clone the repository** (or download the zip and extract the contents):
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone [https://img-bg-rmvr.vercel.app/]
     cd Image-Background-Remover-main
     ```
 2.  **Update the API Key:**
